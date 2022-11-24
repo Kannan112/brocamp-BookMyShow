@@ -1,0 +1,120 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 16px;
+    color: white;
+    background-color: rgb(42, 42, 42);
+}
+.fnav .left{
+    display: flex;
+    margin-top: 11px;
+    
+}.left img{
+    width: 22%;
+    
+}
+.fnav .right{
+    display: flex;
+    margin-top: 15px;
+
+}.right p{
+    margin-inline: 22px;
+    font-size: 22px;
+    
+}.left input{
+    margin-inline: 11px;
+    width: 420px;
+    border: none;
+    height: 32px;
+    outline: none;
+    text-align: center;
+    margin-top: 16px;
+    border-radius: 3px;
+}.right button{
+    margin-inline: 22px;
+    width: 80px;
+    height: 27px;
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(222, 41, 71);
+    color: white;
+
+}.right i{
+    margin-inline: 22px;
+    font-size: 22px;
+
+}.sec-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding:9px;
+    color: white;
+    background-color: rgb(16, 13, 13);
+
+}
+.sec-nav .s-left{
+    display: flex;
+
+}
+.sec-nav .s-right{
+    display: flex;
+}.s-left p{
+    margin-inline-start: 18px;
+
+}.s-right p{
+    margin-inline-start: 22px;
+
+}.sec-nav p:hover{
+    color:rgb(185, 45, 69);
+    cursor: pointer;
+    font-weight: 600;
+
+}.main img{
+    width: 100%;
+}
+.container{
+    text-align: center;
+    padding:22px;
+}.container .card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}.card img{
+    width: 17%;
+    margin-block: 15px;
+    border-radius: 5px;
+
+}.banner img{
+    width: 100%;
+    margin-top: 44px;
+}.premiere{
+    background-color: black;
+    color: white;
+    padding: 33px;
+    margin-top: 44px;
+}.container h2{
+    margin-right: 10px;
+}.container .card{
+    margin-top: 11px;
+}.footer{
+    background-color: antiquewhite;
+    padding: 33px;
+    margin-top: 44px;
+}.footer img{
+    width: 22%;
+    margin-left: 36%;
+
+}.footer .card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}.icon i{
+    margin-inline: 33px;
+    font-size: 25px;
+}
